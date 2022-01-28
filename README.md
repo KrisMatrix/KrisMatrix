@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Krishna K. (Founder and President at HinduLit, LLC and Lead Engineer at ISO New England)
+# Krishna K. 
+Founder and President at HinduLit, LLC and Lead Engineer at ISO New England
 
 ## Summary
 
