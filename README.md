@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **KrisMatrix/KrisMatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,18 +13,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Krishna K.
+# Krishna K. (Founder and President at HinduLit, LLC and Lead Engineer at ISO New England)
+
+## Summary
+
+- 🔭 I’m currently working on modernizing hindulit.com and creating content for HinduLit.
+- 🌱 I’m currently mastering NodeJS, React, TensorFlow.
+- 🤔 I’m looking for full time opportunities in software development in the arena of full stack engineering and machine learning. I also enjoy game development and interested in open source game engines like Godot.
+- 💬 Ask me about HinduLit, Indian literature, my fun hobbies. If you are interested in hiring, you can reach me by email. 
+- 📫 How to reach me: krishnaprashanth2004@yahoo.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am enjoy a variety of hobbies including: Powerlifting, Olympic Lifting, Krav Maga, MMA, Playing Piano, Digital Art and Traditional Art.
 
 ## Experience 
 
-**Lead Engineer, ISO New England		                                       	                    2019-Present**
+**Lead Engineer, ISO New England:** 		                                       	                    2019-Present
 - Performed unit testing on ISO New England applications such as eMarket, PowerGem TARA/PROBE and CaseBuilder that severe bugs did not make it into the production environment.
 - Performed factory testing of GE’s eMarket interface application.
 - Created automation scripts that compiled reports, error/warning logs from GE’s Market Clearing Engine software. It had the benefit of simplifying and enhancing the manual power engineer’s review process.
 - Create a GUI product that converts XML data to Gherkin feature file format. Gherkin files are used in Cucumber to implement unit testing.
 - Provided software solutions for business users on process improvements.
 
-**Senior Engineer, Peak Reliability					                                    2012-2019**
+**Senior Engineer, Peak Reliability:**					                                    2012-2019
 - Created GUI interfaces that support data import, extraction, and loading into SQL Databases
 - Programmed scripts to translate and update power systems model data in a GE proprietary database
 - Implemented search algorithm that identifies isolating devices in a power system grid
@@ -51,13 +59,13 @@ Here are some ideas to get you started:
 - Created and Updated the SCADA model for the West Wide System.
 - Data acquisition and procurement of transmission and generation network data, GIS data, substation displays, and measurement data to improve the quality of the West-wide system model. Enhanced the ability of the Reliability Coordinators to monitor the Western Interconnection for planned and unplanned outages, line overflows and coordinate with external Balancing Areas such that there are no power outages.
 
-**Electrical Engineer, Western Electricity Coordinating Council	                                             2009-2011**
+**Electrical Engineer, Western Electricity Coordinating Council:**	                                             2009-2011
 - Modeled 1/3 of the West Wide Real Time Transmission system. 
 - Created and Updated the SCADA model for the west wide system.
 - Procured and assigned Real time measurement data to the model. Enhanced the ability of the Reliability Coordinators to monitor the Western Interconnection for planned and unplanned outages, line overflows and coordinate with external Balancing Areas such that there are no power outages.
 - Communicated with External Balancing Authorities to share Model data, Real time measurements, and one-lines and performed other data acquisitions for the Peak Reliability Coordinators.
 
-**Senior Full Stack Web Engineer, HinduLit, LLC	                                                     2021-Present**
+**Senior Full Stack Web Engineer, HinduLit, LLC:**	                                                     2021-Present
 
 *Podcast Site on Indian Literature*
 
@@ -80,7 +88,7 @@ Here are some ideas to get you started:
 - Developed meditation web app with React JS (frontend) and Express JS (backend). 
 - Developed a mobile equivalent of web-app using React Native.
 
-**411table, LLC, President and Co-founder, Fort Collins, CO                                             2016-2019**
+**411table, LLC, President and Co-founder, Fort Collins, CO:**                                             2016-2019
 
 **Tech Stack:** Javascript, Perl, CGI, Apache.
 
@@ -90,12 +98,12 @@ Here are some ideas to get you started:
 - Interviewed and worked with salespersons to improve the software for sale.
 - Communicated and collaborated with third-party vendors to troubleshoot errors in the implementation of their product and improve their service.
 
-**Elduhcare, Co-founder, Fort Collins, CO		    			                         2015-2016**
+**Elduhcare, Co-founder, Fort Collins, CO:**		    			                         2015-2016
 - Co-founder and front-end software developer for Elduhcare (unofficial name). The project (now defunct) created a low-cost service for the elderly and the disabled to simply and reliably call emergency personal contacts and 911.
 
 ## Projects 
 
-**San Diego Global Game Jam (3-day event)			 		                                   2021**
+**San Diego Global Game Jam (3-day event):**		 		                                   2021
 
 **Tech Stack:** Godot Game Engine
 - Participated in Global game jam event with 5 person team:
@@ -161,22 +169,22 @@ Here are some ideas to get you started:
 
 ## Committees
 
-**Co-Vice President, City of Fort Collins Advisory Board		 		                        2018-Present**
+**Co-Vice President, City of Fort Collins Advisory Board**		 		                        2018-Present
 - Advised the Fort Collins City Council on the city's electricity and energy projects, and initiatives including the city's efforts in the Climate Action Plan, electric reliability initiatives, residential and community solar initiatives. 
 
-**Governing Member, Data Subcommittee, WECC				      	                        2017-Present**
+**Governing Member, Data Subcommittee, WECC**				      	                        2017-Present
 - Promoted the benefit of transitioning the WECC bus-branch model to a node-breaker model for planning studies. Commented on the challenges of transitioning to a node-breaker model and proposed methods to achieve conversion. 
 
-**Contributing Member, Common Information Model (CIM) Task Force, WECC                        2018-Present**
+**Contributing Member, Common Information Model (CIM) Task Force, WECC**                        2018-Present
 - Provided technical knowledge and expertise in support of efforts to consolidate various entity network models in CIM XML format. 
 
 ## Education
 
-**Arizona State University - Masters in Computer Science			                                                  2022**
+**Arizona State University - Masters in Computer Science**			                                                  2022
 
-**Colorado State University - Masters in Electrical Engineering				                           2017**
+**Colorado State University - Masters in Electrical Engineering**				                           2017
 
-**University Of Minnesota - Bachelors in Electrical Engineering				                           2008**
+**University Of Minnesota - Bachelors in Electrical Engineering**				                           2008
 
 ## Certifications
 
