@@ -19,7 +19,7 @@ Founder and President at HinduLit, LLC and Lead Engineer at ISO New England
 ## Summary
 
 - 🔭 I’m currently working on modernizing hindulit.com and creating content for HinduLit.
-- 🌱 I’m currently mastering NodeJS, React, TensorFlow.
+- 🌱 I’m currently mastering NodeJS, Perl, Python, Vue, React, TensorFlow.
 - 🤔 I’m looking for full time opportunities in software development in the arena of full stack engineering and machine learning. I also enjoy game development and interested in open source game engines like Godot.
 - 💬 Ask me about HinduLit, Indian literature, my fun hobbies. If you are interested in hiring, you can reach me by email. 
 - 📫 How to reach me: krishnaprashanth2004@yahoo.com
