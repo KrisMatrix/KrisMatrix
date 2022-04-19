@@ -18,7 +18,7 @@ Founder and President at HinduLit, LLC and Lead Engineer at ISO New England
 
 [![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krismatrix&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krismatrix&show_icons=true&theme=radical&hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krismatrix&show_icons=true&theme=radical&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Summary
